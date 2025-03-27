@@ -6,5 +6,7 @@ This project is an AI-based travel planning application that generates personali
 ✅ Generates detailed travel plans
 
 ✅ Suggests attractions, activities, and local food spots
+
 ✅ Provides budget-friendly accommodation and transportation tips
+
 ✅ Ensures an optimized experience based on user preferences
